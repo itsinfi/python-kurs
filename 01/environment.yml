@@ -1,0 +1,3 @@
+name: 01_saschaangermann
+dependencies:
+  - python=3.12.7
