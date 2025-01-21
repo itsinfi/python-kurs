@@ -6,3 +6,4 @@ dependencies:
   - matplotlib
   - sklearn
   - scipy
+  - tensorflow
